@@ -1,0 +1,21 @@
+/*
+Theme Name: MeeTheme
+Theme URI: http://demo.nrgthemes.com/projects/mee/
+Version: 1.7.0
+Description: MEE is a responsive Resume and CV WordPress Theme that is perfect to display your resume (education, experience, awards) and portfolio in a professional way. 
+Author: NRGThemes
+Author URI: http://nrgthemes.com
+License: GNU General Public License version 3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags: one-column, two-columns, right-sidebar, custom-menu, editor-style, featured-images, post-formats, sticky-post, translation-ready
+Text Domain: meetheme
+*/
+
+.wp-caption {}
+.wp-caption-text{}
+.sticky{box-shadow: 0 0px 15px rgba(255, 204, 0, 0.5) !important; }
+.gallery-caption{}
+.alignright{text-align: right;}
+.bypostauthor{}
+.aligncenter{text-align: center;}
+.alignleft{text-align: left;}
